@@ -1,4 +1,4 @@
-package com.jahu.springinit
+package com.jahu.springinit.greeting
 
 import org.springframework.web.bind.annotation.RequestMapping
 import org.springframework.web.bind.annotation.RequestParam

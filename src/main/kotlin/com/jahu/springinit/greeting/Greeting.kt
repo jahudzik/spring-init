@@ -1,4 +1,4 @@
-package com.jahu.springinit
+package com.jahu.springinit.greeting
 
 /**
 * Created by jahudzik on 30/08/2018.
