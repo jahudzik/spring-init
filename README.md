@@ -1,4 +1,4 @@
-# sprint-init
+# spring-init
 First steps with Spring Framework
 
 Followed Spring guides:
